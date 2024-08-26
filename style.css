@@ -19,6 +19,7 @@ body {
     width: 100vw;
     overflow-x: hidden;
     background-image: url(fdrfefsddf.jpg);
+    background-size: cover;
 }
 h1 {
     font-family: ww;
